@@ -49,6 +49,8 @@ This Call Center Performance Dashboard provides a clear, insightful, and data-dr
 - **Call Volume by Hour:**
    - **Peak hours:** 10 AM - 4 PM, with 12 PM and 4 PM having the highest calls.
    - Low call activity after **6 PM.**
+  <img align="right" alt="Your Image Description" width="350" src="https://github.com/user-attachments/assets/b90fae4a-fd9d-4725-b10f-bce86a770929">
+
  
 📌 **Recommendations & Strategies**
 
@@ -77,6 +79,7 @@ This Call Center Performance Dashboard provides a clear, insightful, and data-dr
     - Encourage agents to handle simpler queries faster to clear the queue.
 
 **4️⃣** 📊 **Call Topic Analysis & Resource Allocation**
+<img align="right" alt="Your Image Description" width="350" src="https://github.com/user-attachments/assets/62d6e73e-88d2-4cdf-972f-1bc13d7ffa83">
 
 - **Why?** No single category dominates, meaning resources should be evenly distributed.
 - **Strategy:**
