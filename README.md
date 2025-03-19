@@ -11,6 +11,8 @@ This Call Center Performance Dashboard provides a clear, insightful, and data-dr
 - 📅 **Calls by Time & Topic:** Analyzes peak hours (e.g., 12 PM, 4 PM) and categorizes call topics (e.g., Streaming, Technical Support) to aid in resource allocation and staff optimization.
 - 🔍 **Agent Performance Quadrant:** Visualizes agent efficiency, comparing call volumes and handle times, while highlighting satisfaction scores for actionable insights.
 
+![Image](https://github.com/user-attachments/assets/a0674da8-8728-4ff3-b0da-872fad6dbf61)
+
 
 🔎 ** Key Insights Derived from the Dashboard:**
 
